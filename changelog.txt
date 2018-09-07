@@ -2,6 +2,7 @@ v1.0.4 :
 - Changement de titre
 - Ajout du numéro de version
 - Amélioration du système d'alignement
+- Modification de positionnement général
 - Sortie sur GitHub
 
 v1.0.3 :
