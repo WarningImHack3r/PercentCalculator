@@ -1,0 +1,32 @@
+v1.1.0 :
++ PercentCalculator prend désormais en charge l'anglais !
++ Création du fichier lang.txt pour le changement de langue
++ Ajout d'une barre de menu
++ Ajout du bouton "Tout effacer" dans la barre de menu
++ Ajout de la possibilité de copier le résultat dans le presse-papier via le menu ou via un clic droit sur le résultat
+- Phrase d'avertissement sous le titre enlevée : il est désormais possible d'utiliser des points ou des virgules pour les nombres décimaux
+- Le numéro de version a été déplacé dans la partie "A propos"
+
+> Bug connu : impossible de lancer le programme en anglais (ce sera fixé dans la prochaine mise à jour)
+
+v1.0.4 :
+- Changement de titre
+- Ajout du numéro de version
+- Amélioration du système d'alignement
+- Modification de positionnement général
+- Sortie sur GitHub
+
+v1.0.3 :
+- Ajout d’un avertissement utilisateur sous le titre
+
+v1.0.2 :
+- Fix d’un problème de rafraîchissement du résultat
+
+v1.0.1 :
+- Le résultat est arrondi à 2 chiffres après la virgule
+- La bordure du sélecteur de signe est supprimée
+- Les signes en dessous la barre de sélection sont agrandis
+- Réglages d’alignement des textes
+
+v1.0.0 :
+- Sortie initiale
